@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyScanApp</string>
+    <string name="txt_message">texto</string>
+    <string name="escaner">Escaner</string>
+    <string name="galeria">Galeria</string>
+    <string name="subir_imagen">Subir imagen</string>
+    <string name="regresar">Regresar</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="subir_foto">Subir Foto</string>
+</resources>
